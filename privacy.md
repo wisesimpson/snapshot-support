@@ -2,6 +2,8 @@
 
 [English](#english) | [中文](#中文)
 
+[Back to Support Page](./) | [返回支持页面](./)
+
 ---
 
 ## English
