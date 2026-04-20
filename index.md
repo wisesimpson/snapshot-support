@@ -12,7 +12,10 @@ Snapshot is a Safari extension for capturing clean, high-quality web page screen
 
 ### Get Help
 
-If you have questions, found a bug, or want to request a feature, please open an issue in this repository.
+If you have questions, found a bug, or want to request a feature, please:
+
+- [Open an issue on GitHub](https://github.com/wisesimpson/snapshot-support/issues)
+- [Visit the GitHub repository](https://github.com/wisesimpson/snapshot-support)
 
 ### Features
 
@@ -20,6 +23,10 @@ If you have questions, found a bug, or want to request a feature, please open an
 - Custom dimensions
 - Timer capture
 - PNG export
+
+### Privacy Policy
+
+- [View Privacy Policy](./privacy.html)
 
 ---
 
@@ -31,7 +38,10 @@ Snapshot 是一款 Safari 扩展，用于快速截取清晰、高质量的网页
 
 ### 获取帮助
 
-如果你在使用过程中遇到问题、发现 Bug，或者希望提出功能建议，欢迎在此仓库提交 Issue。
+如果你在使用过程中遇到问题、发现 Bug，或者希望提出功能建议，请：
+
+- [在 GitHub 提交 Issue](https://github.com/wisesimpson/snapshot-support/issues)
+- [访问 GitHub 仓库主页](https://github.com/wisesimpson/snapshot-support)
 
 ### 功能特点
 
@@ -39,3 +49,7 @@ Snapshot 是一款 Safari 扩展，用于快速截取清晰、高质量的网页
 - 自定义尺寸
 - 定时截图
 - PNG 导出
+
+### 隐私政策
+
+- [查看隐私政策](./privacy.html)
